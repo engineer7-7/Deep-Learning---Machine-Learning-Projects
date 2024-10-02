@@ -1,1 +1,1 @@
-This project, predicts covid-19 deaths for the spring and winter months.Using transfer learning , in particular VGG16, ResNet50 and LSTM model we calculate the MSE and the RMSE to see how far the predictions are
+In part 2 ipynb project, we predict covid-19 deaths for the spring and winter months.Using transfer learning , in particular VGG16, ResNet50 and LSTM model we calculate the MSE and the RMSE to see how far the predictions are
